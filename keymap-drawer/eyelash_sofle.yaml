@@ -27,7 +27,7 @@ layers:
   - O
   - P
   - {t: \, s: '|'}
-  - <
+  - \
   - A
   - S
   - D
@@ -79,7 +79,7 @@ layers:
   - $$mdi:skip-next$$
   - {t: '-', s: _}
   - $$mdi:backspace-reverse-outline$$
-  - {t: '$$mdi:transfer$$', type: trans}
+  - PgUp
   - HOME
   - $$mdi:arrow-up-bold$$
   - END
@@ -92,7 +92,7 @@ layers:
   - PgUp
   - {t: '-', s: _}
   - {t: '=', s: +}
-  - '>'
+  - PgDn
   - $$mdi:arrow-left-bold$$
   - $$mdi:arrow-down-bold$$
   - $$mdi:arrow-right-bold$$
